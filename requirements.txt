@@ -4,3 +4,4 @@ psycopg[binary]==3.2.6
 tqdm==4.66.5
 fastapi
 uvicorn[standard]
+streamlit 
